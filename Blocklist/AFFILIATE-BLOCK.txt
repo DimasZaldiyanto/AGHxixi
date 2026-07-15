@@ -2,7 +2,7 @@
 ||lynk.id^$important
 ||spf.shopee^$important
 ||ss.shopee.co.id^$important
-||s.shopee^$important
+||s.shopee.co.id^$important
 ||sv.shopee.co.id^$important
 ||spf.shopee.co.id^$important
 ||s.shopee.co.id^$important
