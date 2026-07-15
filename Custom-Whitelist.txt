@@ -1,0 +1,94 @@
+# ===== AdGuard Home Custom Whitelist =====
+# Format: @@||domain^ (allow/whitelist)
+# ==========================================
+
+# ======================== BANK ========================
+@@||alipay.com^
+@@||alipaydns.com^
+@@||bankbjb.co.id^
+@@||bankbsi.co.id^
+@@||bankmandiri.co.id^
+@@||bca.co.id^
+@@||bi.go.id^
+@@||blubybcadigital.id^
+@@||bni.co.id^
+@@||bri.co.id^
+@@||btn.co.id^
+@@||cimbniaga.co.id^
+@@||danamon.co.id^
+@@||hanabank.co.id^
+@@||hsbc.co.id^
+@@||jago.com^
+@@||klikbca.com^
+@@||maybank.co.id^
+@@||permatabank.com^
+@@||permatanet.com^
+@@||sc.com^
+@@||dana.id^
+@@||mas-log1.saas.dana.id^
+@@||gw-dana.ebuckler.com^
+
+# ======================== LOKAL ========================
+@@||connectivitycheck.android.com^
+@@||connectivitycheck.gstatic.com^
+@@||captive.apple.com^
+@@||connectivitycheck.unisoc.com^
+@@||msftncsi.com^
+@@||ruckuswireless.com^
+
+# ======================== SOSMED ========================
+@@||whatsapp.net^
+@@||dit.whatsapp.net^
+@@||mmg.whatsapp.net^
+@@||external-lhr0-1.xx.fbcdn.net^
+@@||external-lhr1-1.xx.fbcdn.net^
+
+
+# ======================== TOKOPEDIA ========================
+@@||r.akamai.net^
+@@||dscapi1.akamai.net^
+@@||branch.io^
+@@||gojekapi.com^
+@@||tokopedia.link^
+@@||tokopediax.com^
+@@||tokopedia.com^
+@@||jcloudcdn.com^
+
+# ======================== SHOPEE ========================
+@@||shope.ee^
+@@||shop.ee^
+
+# ======================== CAPCUT ========================
+@@||mssdk-sg.byteoversea.com^
+@@||mssdk-sg.byteoversea.com.ttdns2.com^
+@@||commerce-api-sg.capcut.com^
+@@||configure.rayjump.com^
+@@||cdn-setting.rayjump.com^
+@@||gecko-sg.byteoversea.com^
+@@||mon-va.byteoversea.com^
+@@||feed-api.capcut.com^
+@@||e673.dsce9.akamaiedge.net^
+@@||editor-api-mya.capcutapi.com^
+@@||editor-api-sg.capcut.com^
+@@||feed-api-sg.capcut.com^
+@@||pay16-normal-useast1a.pipopay.com^
+@@||sf-fe.capcut.com.ttdns2.com^
+@@||tnc-va.capcutapi.com.ttdns2.com^
+@@||sg-gcp-media.evercloud.capcut.com^
+@@||editor-api-va.capcutapi.com^
+@@||api1.akamaiedge.net^
+@@||mediation.pangle.io.ttdns2.com^
+@@||sgsnssdk.com.ttdns2.com^
+@@||feed-api.capcutapi.com.ttdns2.com^
+@@||sf-fe.capcut.com^
+@@||editor-api-sg.capcut.com.ttdns2.com^
+@@||feed-api-sg.capcut.com.ttdns2.com^
+@@||cdn.liftoff-creatives.io^
+@@||p16-ulike-sg.ibyteimg.com^
+
+# ======================== LAIN ========================
+@@||conn-service-us-[0-9]+\.allawnos\.com^
+
+@@||api.cloud.tenda.com.cn^
+@@||s.pu.go.id^$important
+@@||tlauncher.org^$important

@@ -1,0 +1,10 @@
+# ===== AdGuard Blocklist — AFFILIATE =====
+||lynk.id^$important
+||spf.shopee^$important
+||ss.shopee.co.id^$important
+||s.shopee^$important
+||sv.shopee.co.id^$important
+||spf.shopee.co.id^$important
+||s.shopee.co.id^$important
+||id.shp.ee^$important
+||vt.tokopedia.com^$important

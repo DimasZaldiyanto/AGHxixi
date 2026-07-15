@@ -1,0 +1,7 @@
+# ======================== LOKAL ========================
+@@||connectivitycheck.android.com^
+@@||connectivitycheck.gstatic.com^
+@@||captive.apple.com^
+@@||connectivitycheck.unisoc.com^
+@@||msftncsi.com^
+@@||ruckuswireless.com^

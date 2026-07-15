@@ -1,0 +1,27 @@
+# ======================== CAPCUT ========================
+@@||mssdk-sg.byteoversea.com^
+@@||mssdk-sg.byteoversea.com.ttdns2.com^
+@@||commerce-api-sg.capcut.com^
+@@||configure.rayjump.com^
+@@||cdn-setting.rayjump.com^
+@@||gecko-sg.byteoversea.com^
+@@||mon-va.byteoversea.com^
+@@||feed-api.capcut.com^
+@@||e673.dsce9.akamaiedge.net^
+@@||editor-api-mya.capcutapi.com^
+@@||editor-api-sg.capcut.com^
+@@||feed-api-sg.capcut.com^
+@@||pay16-normal-useast1a.pipopay.com^
+@@||sf-fe.capcut.com.ttdns2.com^
+@@||tnc-va.capcutapi.com.ttdns2.com^
+@@||sg-gcp-media.evercloud.capcut.com^
+@@||editor-api-va.capcutapi.com^
+@@||api1.akamaiedge.net^
+@@||mediation.pangle.io.ttdns2.com^
+@@||sgsnssdk.com.ttdns2.com^
+@@||feed-api.capcutapi.com.ttdns2.com^
+@@||sf-fe.capcut.com^
+@@||editor-api-sg.capcut.com.ttdns2.com^
+@@||feed-api-sg.capcut.com.ttdns2.com^
+@@||cdn.liftoff-creatives.io^
+@@||p16-ulike-sg.ibyteimg.com^

@@ -1,0 +1,49 @@
+# ===== AdGuard Blocklist — CAPCUT =====
+# AppsFlyer SDK
+||ismmyx-cdn-settings.appsflyersdk.com^
+||ismmyx-dlsdk.appsflyersdk.com^
+||ismmyx-skadsdk.appsflyersdk.com^
+||ismmyx-conversions.appsflyersdk.com^
+||ismmyx-gcdsdk.appsflyersdk.com^
+||ismmyx-dynamic-config-api.appsflyersdk.com^
+||ismmyx-attr.appsflyersdk.com^
+||ismmyx-skadsdkless.appsflyersdk.com^
+
+# ByteDance / Byteoversea
+||maliva-mcs.byteoversea.com^
+||bytegecko-i18n.com.edgesuite.net^
+||tnc-sg.capcutapi.com^
+||tnc-boot.capcutapi.com^
+||tnc16-useast1a.byteoversea.com^
+||pitaya-sg.capcutapi.com^
+||log.byteoversea.com.ttdns2.com^
+||api16-access-sg.pangle.io.ttdns2.com^
+||api-h2.tiktokv.com.ttdns2.com^
+||tnc-sg.capcutapi.com.ttdns2.com^
+||tnc-va.capcutapi.com.ttdns2.com^
+||mon.tiktokv.com.ttdns2.com^
+||mon-va.byteoversea.com.ttdns2.com^
+||pitaya-sg.capcutapi.com.ttdns2.com^
+||starling-sg.tiktokv.com.ttdns2.com^
+||editor16-normal-sg.capcutapi.com^
+||editor16-normal-myb.capcutapi.com^
+
+# CDN / Edge
+||general-api-us-looki.capcutapi.com^
+||general-api-us-looki.capcutapi.com.ttdns2.com^
+||i-sg.capcutapi.com.ttdns2.com^
+||sf16-scmcdn-sg.ibytedtos.com^
+||frontier-sg.capcut.com^
+||frontier-sg-capcut-com.bytewlb.akadns.net^
+
+# Regex
+||a\d{4}\.mm2\.akamai\.net^
+||lf\d{2}-geckocdn\.bytegecko-i18n\.com^
+||lf\d{2}-pkgcdn\.pitaya-clientai\.com^
+
+# Backup
+#||lf\d{2}-gecko-offline-bd\.bytegecko-i18n\.com^
+#||i-sg.capcutapi.com^
+#||risk-sg.pipopay.com
+#||gecko-sg.capcutapi.com
+#||ttdns2.com

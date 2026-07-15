@@ -1,0 +1,3 @@
+# ======================== TIKTOK ========================
+||ads.tiktok.com^
+||ads-api.tiktok.com^

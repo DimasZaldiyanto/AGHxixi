@@ -1,0 +1,11 @@
+# ======================== SHOPEE ========================
+# Block tracker Shopee (live stream, remote config, tracking)
+||ubt.tracking.shopee.co.id^$important
+||play-ws-src.livestream.shopee.co.id^
+||play-hw-src.livestream.shopee.co.id^
+||remote-config.gslb.sgw.shopeemobile.com^
+||play-tx-src.livestream.shopee.co.id^
+||data-rep.livetech.shopee.co.id^$important
+||play-bs-src.livestream.shopee.co.id^$important
+||play-spe.livestream.shopee.co.id^$important
+||deo.shopeemobile.com^

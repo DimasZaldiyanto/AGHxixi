@@ -1,0 +1,25 @@
+# ======================== BANK ========================
+@@||alipay.com^
+@@||alipaydns.com^
+@@||bankbjb.co.id^
+@@||bankbsi.co.id^
+@@||bankmandiri.co.id^
+@@||bca.co.id^
+@@||bi.go.id^
+@@||blubybcadigital.id^
+@@||bni.co.id^
+@@||bri.co.id^
+@@||btn.co.id^
+@@||cimbniaga.co.id^
+@@||danamon.co.id^
+@@||hanabank.co.id^
+@@||hsbc.co.id^
+@@||jago.com^
+@@||klikbca.com^
+@@||maybank.co.id^
+@@||permatabank.com^
+@@||permatanet.com^
+@@||sc.com^
+@@||dana.id^
+@@||mas-log1.saas.dana.id^
+@@||gw-dana.ebuckler.com^
