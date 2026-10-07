@@ -18,6 +18,7 @@
 ||expose.uzone.id
 ||food.uzone.id
 ||myads.id
+||myads.telkomsel.com
 ||js.digiads.co.id
 ||kendedes.uzone.id
 ||news.uzone.id
