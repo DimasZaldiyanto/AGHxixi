@@ -17,6 +17,7 @@
 ||digilife.uzone.id
 ||expose.uzone.id
 ||food.uzone.id
+||myads.id
 ||js.digiads.co.id
 ||kendedes.uzone.id
 ||news.uzone.id
